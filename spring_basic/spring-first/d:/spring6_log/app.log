@@ -1,0 +1,4 @@
+2024-07-12 at 17:19:01 CST DEBUG org.springframework.context.support.AbstractApplicationContext 630 prepareRefresh - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@79d94571
+2024-07-12 at 17:19:01 CST DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader 393 doLoadBeanDefinitions - Loaded 1 bean definitions from class path resource [bean.xml]
+2024-07-12 at 17:19:01 CST DEBUG org.springframework.beans.factory.support.DefaultSingletonBeanRegistry 225 getSingleton - Creating shared instance of singleton bean 'user'
+2024-07-12 at 17:19:01 CST INFO  com.czh.spring.TestUser 25 test - user: com.czh.spring.User@1e5f4170
